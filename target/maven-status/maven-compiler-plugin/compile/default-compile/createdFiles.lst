@@ -1,1 +1,7 @@
 com\example\expense_platform\ExpensePlatformApplication.class
+com\example\expense_platform\model\Expense$ExpenseBuilder.class
+com\example\expense_platform\controller\ExpenseController.class
+com\example\expense_platform\model\Expense.class
+com\example\expense_platform\repository\ExpenseRepository.class
+com\example\expense_platform\service\ExpenseService.class
+com\example\expense_platform\service\ExpenseServiceImpl.class
